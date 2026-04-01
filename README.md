@@ -21,5 +21,5 @@ mkdir build && cd build
 cmake ..
 make -j 
 sudo make install 
-```
-然后进入lidar2camera文件夹 按照指引编译即可
+‵‵‵
+### 然后进入lidar2camera文件夹 按照指引编译即可
