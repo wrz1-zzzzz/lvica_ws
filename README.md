@@ -15,9 +15,9 @@ sudo apt-get install git cmake libglew-dev pkg-config libegl1-mesa-dev libwaylan
 ‵‵‵
 git clone https://github.com/stevenlovegrove/Pangolin.git
 ```
+
 ```
 cd ~/Pangolin
-```
 git fetch --all --tags
 git checkout v0.6
 mkdir build && cd build
