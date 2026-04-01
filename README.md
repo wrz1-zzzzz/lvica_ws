@@ -12,7 +12,7 @@ sudo apt-get update
 sudo apt-get install git cmake libglew-dev pkg-config libegl1-mesa-dev libwayland-dev libxkbcommon-dev wayland-protocols
 ```
 ### 随便找个文件夹  
-‵‵‵
+````
 git clone https://github.com/stevenlovegrove/Pangolin.git
 cd ~/Pangolin
 git fetch --all --tags
@@ -21,5 +21,3 @@ mkdir build && cd build
 cmake ..
 make -j 
 sudo make install 
-‵‵‵
-### 然后进入lidar2camera文件夹 按照指引编译即可
