@@ -46,7 +46,7 @@ vector
 pcl/io/pcd_io.h
 ../include/pcl/io/pcd_io.h
 
-/home/zjc666/lvica_ws/src/SensorsCalibration/lidar2camera/manual_calib/src/run_lidar2camera.cpp
+/home/zjc666/lvica_ws/src/lidar2camera/manual_calib/src/run_lidar2camera.cpp
 boost/filesystem.hpp
 -
 opencv2/opencv.hpp
@@ -76,11 +76,11 @@ iostream
 string
 -
 extrinsic_param.hpp
-/home/zjc666/lvica_ws/src/SensorsCalibration/lidar2camera/manual_calib/src/extrinsic_param.hpp
+/home/zjc666/lvica_ws/src/lidar2camera/manual_calib/src/extrinsic_param.hpp
 intrinsic_param.hpp
-/home/zjc666/lvica_ws/src/SensorsCalibration/lidar2camera/manual_calib/src/intrinsic_param.hpp
+/home/zjc666/lvica_ws/src/lidar2camera/manual_calib/src/intrinsic_param.hpp
 projector_lidar.hpp
-/home/zjc666/lvica_ws/src/SensorsCalibration/lidar2camera/manual_calib/src/projector_lidar.hpp
+/home/zjc666/lvica_ws/src/lidar2camera/manual_calib/src/projector_lidar.hpp
 
 /usr/include/eigen3/Eigen/Cholesky
 Core

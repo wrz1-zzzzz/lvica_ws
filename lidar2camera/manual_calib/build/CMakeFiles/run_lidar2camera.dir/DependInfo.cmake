@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zjc666/lvica_ws/src/SensorsCalibration/lidar2camera/manual_calib/src/run_lidar2camera.cpp" "/home/zjc666/lvica_ws/src/SensorsCalibration/lidar2camera/manual_calib/build/CMakeFiles/run_lidar2camera.dir/src/run_lidar2camera.cpp.o"
+  "/home/zjc666/lvica_ws/src/lidar2camera/manual_calib/src/run_lidar2camera.cpp" "/home/zjc666/lvica_ws/src/lidar2camera/manual_calib/build/CMakeFiles/run_lidar2camera.dir/src/run_lidar2camera.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

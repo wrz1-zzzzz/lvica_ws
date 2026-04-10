@@ -1,4 +1,4 @@
-# Install script for directory: /home/zjc666/lvica_ws/src/SensorsCalibration/lidar2camera/manual_calib
+# Install script for directory: /home/zjc666/lvica_ws/src/lidar2camera/manual_calib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/zjc666/lvica_ws/src/SensorsCalibration/lidar2camera/manual_calib/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/zjc666/lvica_ws/src/lidar2camera/manual_calib/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
